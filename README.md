@@ -1,2 +1,3 @@
-# DOM-navigation-events
-Learning navigations &amp; events with DOMs
+# DOM: Navigations & Events
+
+Title says it alll: we'll be learning navigations &amp; events with DOMs in today's exercices! 
